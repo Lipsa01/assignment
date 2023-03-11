@@ -20,5 +20,8 @@ void main()
        case 4:
        quo=a/b;
        printf("quotient=%f\n",quo);
+       break;
+       default:
+       printf("invalid input");
    } 
 }
